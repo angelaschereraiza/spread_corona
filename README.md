@@ -7,22 +7,22 @@
 ╚══════╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝      ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
 ```                                                                                                        
 
-Nichts ist im Jahre 2020 und 2021 aktueller als das Thema Corona. Manche empfinden grosse Angst vor dem Virus und andere wiederum machen sich lä-cherlich darüber, glauben nicht daran oder erfinden sogar Verschwörungstheo-rien. So oder so wird viel geredet und die Medien berichten über ein Virus, wie nie zuvor. Da als Semesterarbeit verlangt wurde, ein Spiel zu programmieren, habe ich mich dazu entschlossen, ein Spiel zu entwickeln, das den vielleicht etwas schwärzeren Humor treffen sollte. Im Allgemeinen wird in dieser Se-mesterarbeit das Corona Virus als Spiel humoristisch wiedergegeben.
+Nichts ist im Jahre 2020 und 2021 aktueller als das Thema Corona. Manche empfinden grosse Angst vor dem Virus und andere wiederum machen sich lächerlich darüber, glauben nicht daran oder erfinden sogar Verschwörungstheorien. So oder so wird viel geredet und die Medien berichten über ein Virus, wie nie zuvor. Da als Semesterarbeit verlangt wurde, ein Spiel zu programmieren, habe ich mich dazu entschlossen, ein Spiel zu entwickeln, das den vielleicht etwas schwärzeren Humor treffen sollte. Im Allgemeinen wird in dieser Semesterarbeit das Corona Virus als Spiel humoristisch wiedergegeben.
 
 
 ## Spielidee
 
-In dieser Semesterarbeit wird eine einfache 2D Spielanwendung in Comic Style erstellt. Das Thema handelt sich um das Corona Virus, welches aufzeigen soll-te, wie schnell eine Verbreitung möglich ist. Es werden Klischees des Corona Viruses in humoristischer Form in das Spiel eingebaut. Die Figuren und Ge-genstände werden entweder selbst gezeichnet oder aus öffentlichen Vorlagen vom Internet verwendet.
+In dieser Semesterarbeit wird eine einfache 2D Spielanwendung in Comic Style erstellt. Das Thema handelt sich um das Corona Virus, welches aufzeigen sollte, wie schnell eine Verbreitung möglich ist. Es werden Klischees des Corona Viruses in humoristischer Form in das Spiel eingebaut. Die Figuren und Gegenstände werden entweder selbst gezeichnet oder aus öffentlichen Vorlagen vom Internet verwendet.
 
 
 ## Regeln
 
-Der Hauptcharakter, welches ein Corona ist, wird mittels Pfeiltasten bewegt. Die Spielebene verschiebt sich automatisch von links nach rechts. Ziel ist es dabei die entgegenkommenden Personen zu berühren und sie zu infizieren. Gegen-ständen wie Desinfektionsmittel, Impfungen, Masken, etc muss man auswei-chen, da man ansonsten Infizierte verliert und der Punktestand kleiner wird. Die Objekte verändern die Farbe und sind nach einer Berührung nicht mehr be-rührbar. Der Punktestand selbst steigt und sinkt exponentiell, da es in der Reali-tät mit Corona ähnlich abläuft. Wenn der Infizierten-Punktestand steigt, wird die Corona Figur auch grösser und langsamer, so dass es schwieriger wird den Ob-jekten auszuweichen. Wenn der Punktestand sinkt, wird man entsprechend kleiner und schneller. Wenn man den Punktestand Null erreicht, ist das Spiel vorbei, da Corona in der Realität auch weg wäre, wenn es keine Infizierten mehr gibt. Ziel des Spiels ist es, möglichst lange zu überleben. Wenn man ver-liert, wird die erreichte Zeit und der maximal höchst erreichte Infektionsstand angezeigt.
+Der Hauptcharakter, welches ein Corona ist, wird mittels Pfeiltasten bewegt. Die Spielebene verschiebt sich automatisch von links nach rechts. Ziel ist es dabei die entgegenkommenden Personen zu berühren und sie zu infizieren. Gegenständen wie Desinfektionsmittel, Impfungen, Masken, etc muss man ausweichen, da man ansonsten Infizierte verliert und der Punktestand kleiner wird. Die Objekte verändern die Farbe und sind nach einer Berührung nicht mehr berührbar. Der Punktestand selbst steigt und sinkt exponentiell, da es in der Realität mit Corona ähnlich abläuft. Wenn der Infizierten-Punktestand steigt, wird die Corona Figur auch grösser und langsamer, so dass es schwieriger wird den Objekten auszuweichen. Wenn der Punktestand sinkt, wird man entsprechend kleiner und schneller. Wenn man den Punktestand Null erreicht, ist das Spiel vorbei, da Corona in der Realität auch weg wäre, wenn es keine Infizierten mehr gibt. Ziel des Spiels ist es, möglichst lange zu überleben. Wenn man verliert, wird die erreichte Zeit und der maximal höchst erreichte Infektionsstand angezeigt.
 
 
 ## Abgrenzung
 
-Das Spiel soll eine einfach zu bedienende Anwendung sein, damit auch jünge-re Spieler, welche nicht lesen können, das Spiel bedienen können. Entspre-chend wird darauf geachtet, dass wenig Wörter verwendet werden und das Spiel möglichst intuitiv zu bedienen ist.
+Das Spiel soll eine einfach zu bedienende Anwendung sein, damit auch jüngere Spieler, welche nicht lesen können, das Spiel bedienen können. Entsprechend wird darauf geachtet, dass wenig Wörter verwendet werden und das Spiel möglichst intuitiv zu bedienen ist.
 
 
 ## Technologie Stack

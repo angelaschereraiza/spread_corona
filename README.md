@@ -38,5 +38,9 @@ Für das Code Management wird GitLab eingesetzt. Damit eine automatisierte Über
 
 1. Klone Repository
 2. Gehe in den Ordner spread_corona: "cd spread_corona"
-2. Installiere npm: "npm install"
-3. Starte React-App mit: "npm start"
+3. Installiere npm: "npm install"
+4. Starte React-App mit: "npm start"
+5. Gehe in den Ordner spread_corona_api: "cd .." und "cd
+spread_corona_api"
+6. Installiere wieder npm: "npm install"
+7. Starte Node Server mit "node app.js"

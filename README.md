@@ -7,12 +7,12 @@
 ╚══════╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝      ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
 ```                                                                                                        
 
-Nichts ist im Jahre 2020 und 2021 aktueller als das Thema Corona. Manche empfinden grosse Angst vor dem Virus und andere wiederum machen sich lächerlich darüber, glauben nicht daran oder erfinden sogar Verschwörungstheorien. So oder so wird viel geredet und die Medien berichten über ein Virus, wie nie zuvor. Da als Semesterarbeit verlangt wurde, ein Spiel zu programmieren, habe ich mich dazu entschlossen, ein Spiel zu entwickeln, das den vielleicht etwas schwärzeren Humor treffen sollte. Im Allgemeinen wird in dieser Semesterarbeit das Corona Virus als Spiel humoristisch wiedergegeben.
+Nichts ist im Jahre 2020 und 2021 aktueller als das Thema Corona. Manche empfinden grosse Angst vor dem Virus und andere wiederum machen sich lächerlich darüber, glauben nicht daran oder erfinden sogar Verschwörungstheorien. So oder so wird viel geredet und die Medien berichten über ein Virus, wie nie zuvor. Ich habe mich deshalb dazu entschlossen, ein Spiel zu entwickeln, das den vielleicht etwas schwärzeren Humor treffen sollte. Im Allgemeinen wird das Corona Virus als Spiel humoristisch wiedergegeben.
 
 
 ## Spielidee
 
-In dieser Semesterarbeit wird eine einfache 2D Spielanwendung in Comic Style erstellt. Das Thema handelt sich um das Corona Virus, welches aufzeigen sollte, wie schnell eine Verbreitung möglich ist. Es werden Klischees des Corona Viruses in humoristischer Form in das Spiel eingebaut. Die Figuren und Gegenstände werden entweder selbst gezeichnet oder aus öffentlichen Vorlagen vom Internet verwendet.
+Es wird eine einfache 2D Spielanwendung in Comic Style erstellt. Das Thema handelt sich um das Corona Virus, welches aufzeigen sollte, wie schnell eine Verbreitung möglich ist. Es werden Klischees des Corona Viruses in humoristischer Form in das Spiel eingebaut. Die Figuren und Gegenstände werden entweder selbst gezeichnet oder aus öffentlichen Vorlagen vom Internet verwendet.
 
 
 ## Regeln
@@ -36,7 +36,7 @@ Für das Code Management wird GitLab eingesetzt. Damit eine automatisierte Über
 
 ## Installation
 
-1. Klone Repository mit: "git clone https://git.ffhs.ch/shankar.ram/webt/-/tree/dev-bsc.inf.2016-angela"
+1. Klone Repository
 2. Gehe in den Ordner spread_corona: "cd spread_corona"
 2. Installiere npm: "npm install"
 3. Starte React-App mit: "npm start"
